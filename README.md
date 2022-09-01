@@ -1,6 +1,4 @@
 # GustavoFelski
-<h3 style="font-family: Arial, Helvetica, sans-serif;">
-    
     <p>
         <img src="https://img.icons8.com/clouds/30/000000/great-britain.png"/>
         <img src="https://img.icons8.com/clouds/30/000000/usa.png"/>
@@ -18,7 +16,6 @@
         <br>
         Por enquanto, estou melhorando lentamente meu perfil à medida que aprendo mais, mas sinta-se à vontade para verificar meus projetos e fazer comentários, ficarei grato. 
     </p>
-</h3>
 <br>
 <hr color="grey">
 
