@@ -1,22 +1,24 @@
 # GustavoFelski
-    <p>
-        <img src="https://img.icons8.com/clouds/30/000000/great-britain.png"/>
-        <img src="https://img.icons8.com/clouds/30/000000/usa.png"/>
-        <hr color="grey">
-        Welcome to my profile, I'm <span style="color: deepskyblue;"> Gustavo </span> but you can call me <span style="color: deepskyblue;"> 
-        Guthy </span> and if you are here is maybe the same reason that I am, We are curious developes seeking for more knowledge.
-        <br>
-        For now, I am slowly improving my profile as I learn more but feel free to check my projects and make comments, I will appreciate it. 
-    </p>
-    <p>
-        <img src="https://img.icons8.com/officel/20/000000/brazil.png"/>
-        <hr color="grey">
-        Bem vindo ao meu perfil, sou o <span style="color: deepskyblue;"> Gustavo </span> mas pode me chamar de <span style="color: deepskyblue;">Guthy </span>e 
-        se você está aqui talvez seja o mesmo motivo que eu, somos curiosos desenvolvedores buscando mais conhecimento.
-        <br>
-        Por enquanto, estou melhorando lentamente meu perfil à medida que aprendo mais, mas sinta-se à vontade para verificar meus projetos e fazer comentários, ficarei grato. 
-    </p>
+<h3 style="font-family: Arial, Helvetica, sans-serif;">
+<p>
+<img src="https://img.icons8.com/clouds/30/000000/great-britain.png"/>
+<img src="https://img.icons8.com/clouds/30/000000/usa.png"/>
+<hr color="grey">
+Welcome to my profile, I'm <span style="color: deepskyblue;"> Gustavo </span> but you can call me <span style="color: deepskyblue;"> 
+Guthy </span> and if you are here is maybe the same reason that I am, We are curious developes seeking for more knowledge.
 <br>
+For now, I am slowly improving my profile as I learn more but feel free to check my projects and make comments, I will appreciate it. 
+</p>
+<p>
+<img src="https://img.icons8.com/officel/20/000000/brazil.png"/>
+<hr color="grey">
+Bem vindo ao meu perfil, sou o <span style="color: deepskyblue;"> Gustavo </span> mas pode me chamar de <span style="color: deepskyblue;">Guthy </span>e 
+se você está aqui talvez seja o mesmo motivo que eu, somos curiosos desenvolvedores buscando mais conhecimento.
+<br>
+        Por enquanto, estou melhorando lentamente meu perfil à medida que aprendo mais, mas sinta-se à vontade para verificar meus projetos e fazer comentários, ficarei grato. 
+</p>
+<br>
+</h3>
 <hr color="grey">
 
 <div style="font-family: Arial, Helvetica, sans-serif;">
@@ -27,7 +29,6 @@
 </p>
 
 <div>
-    
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </div>
